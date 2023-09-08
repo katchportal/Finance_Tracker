@@ -119,6 +119,7 @@ GEM
     globalid (1.2.0)
       activesupport (>= 6.1)
     hashie (5.0.0)
+    hirb (0.7.3)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
     iex-ruby-client (2.0.0)
@@ -278,6 +279,7 @@ DEPENDENCIES
   devise (~> 4.9)
   devise-bootstrap-views (~> 1.0)
   font-awesome-rails
+  hirb (~> 0.7.3)
   iex-ruby-client
   jbuilder (~> 2.7)
   listen (~> 3.3)
